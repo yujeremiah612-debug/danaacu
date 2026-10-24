@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Sans+KR:wght@300;400;500;700;900&family=Noto+Serif+KR:wght@400;700;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+@layer base {
+  body {
+    font-family: "Plus Jakarta Sans", "Noto Sans KR", system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-serif-baskerville {
+  font-family: "Libre Baskerville", "Noto Serif KR", "Noto Sans KR", Georgia, Cambria, serif;
+}
+
+.font-korean {
+  font-family: "Noto Sans KR", "Noto Serif KR", system-ui, sans-serif;
+}

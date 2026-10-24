@@ -1,0 +1,8 @@
+{
+  "name": "Dana Acu - Dana Han Bang (다나 한의원)",
+  "description": "Affordable holistic wellness, acupuncture, oriental medicine, and INDIBA RF therapy clinic in Dallas and Carrollton, TX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
